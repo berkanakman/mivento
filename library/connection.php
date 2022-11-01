@@ -1,8 +1,8 @@
 <?php
         function getdb(){
         $servername = "localhost";
-        $username = "berkan";
-        $password = "123456";
+        $username = "";
+        $password = "";
         $db = "mivento";
         try {
             $conn = new mysqli($servername, $username, $password, $db);

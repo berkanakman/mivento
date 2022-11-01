@@ -13,7 +13,8 @@ Yüklenecek dosya seçilir ve Yükle butonuna basılır.
 
 **Kurulum:**
 
-- Proje dosyalarını histing klasörüne yükleyiniz.
+- Proje dosyalarını hosting klasörüne yükleyiniz.
+- library klasörünün altında bulunan connection.php içerisindeki mysql veritabanı ayarlarını yapınız.
 - SQL klasörü içerisinde bulunan mivento.sql dosyasını veritabanı içerisine yükleyiniz.
 - logs klasörüne yazma izni veriniz.
 - Proje klasöründe bulunan SQL klasörü ve task.csv dosyasını siliniz.
