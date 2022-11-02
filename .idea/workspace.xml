@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04dd29f2-bbee-4f84-b769-94af13d3d8da" name="Default" comment="First">
-      <change afterPath="$PROJECT_DIR$/.idea/mivento.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQL/mivento.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/connection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/import.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +128,7 @@
       <workItem from="1667124976980" duration="7184000" />
       <workItem from="1667199483074" duration="15402000" />
       <workItem from="1667366585351" duration="424000" />
-      <workItem from="1667367018102" duration="1055000" />
+      <workItem from="1667367018102" duration="1178000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <created>1667299521918</created>
@@ -160,7 +151,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667366650557</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="First">
+      <created>1667368082666</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667368082666</updated>
+    </task>
+    <task id="LOCAL-00005" summary="First">
+      <created>1667368155605</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667368155605</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
